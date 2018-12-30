@@ -1,0 +1,2 @@
+# gen_bash_script_from-_template
+gen_bash_script_from _template
